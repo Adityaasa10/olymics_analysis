@@ -47,16 +47,4 @@ This project uses two main data files:
 - `athlete_events.csv`: Contains details about athletes, events, and medals
 - `noc_regions.csv`: Mapping of NOC (National Olympic Committee) codes to regions
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-your-issues-page) if you want to contribute.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Contact
-
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-
 Project Link: https://olymicsanalysis.streamlit.app/
